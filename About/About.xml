@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>While You're Up [1.0]</name>
-	<author>kevlou</author>
-	<targetVersion>1.0.2059</targetVersion>
+	<name>While You're Up (Continued)[1.1]</name>
+	<author>kevlou/HooDie</author>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
 	<description>"So long Bob, I'm heading back home for some food!"
 	
 "OK Jim.  Hey, while you're heading over there, mind hauling some of this wood we chopped?"
@@ -34,4 +36,5 @@ Keep in mind:
  
  - There's also an option in there to make bleeding colonists not look for these jobs (so they won't search for something to haul on their way to the hospital, for instance).
 	 </description>
+  <packageId>hoodie.whileyoureup</packageId>
 </ModMetaData>
